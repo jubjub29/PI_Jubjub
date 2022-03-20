@@ -84869,7 +84869,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 popcounter.com
 0.0.0.0 partners.popmatters.com
 0.0.0.0 chezh1.popmarker.com
-0.0.0.0 ht.pornhub.com
 0.0.0.0 porntraff.com
 0.0.0.0 prstats.postrelease.com
 0.0.0.0 www.predictad.com
@@ -106999,6 +106998,8 @@ www.zonerama.com##.list-alb:not([data-size="1"]):not([data-album-id])
 www.zonerama.com##.gallery-inner:not([data-image-pattern])
 
 en.wikipedia.org##.ext-quick-survey-panel
+
+
 
 
 ################################################################

@@ -106926,9 +106926,6 @@ loritta.website##.please-disable-modal
 
 www.webmd.com##.-mor
 
-! Spotify (1host overkill)
-@@||guc-dealer.spotify.com^$xmlhttprequest,domain=open.spotify.com
-@@||guc-spclient.spotify.com^$xmlhttprequest,domain=open.spotify.com
 
 minecraft-tracker.com##[id^="adblock"]
 
@@ -106966,8 +106963,6 @@ www.symbolab.com##.symp
 www.linguee.com##[id^=banner_]
 
 skribbl.io###containerFreespace > .adsbygoogle
-
-@@||media*.ledevoir.com$image
 
 en.wikipedia.org##.cbnnr-main
 en.wikipedia.org##.cn-fundraising
